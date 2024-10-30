@@ -7,7 +7,6 @@ mm.add("(min-width: 851px)", () => {
             scroller:"body",
             start:"0% 95%",
             end:"70% 50%",
-            markers:true,
             scrub:true,
             duration:1,
         }
@@ -38,7 +37,6 @@ mm.add("(min-width: 851px)", () => {
             scroller:"body",
             start:"0% 95%",
             end:"70% 50%",
-            markers:true,
             scrub:true,
         }
     })
@@ -68,7 +66,6 @@ mm.add("(max-width: 850px)", () => {
             scroller:"body",
             start:"0% 75%",
             end:"70% 50%",
-            markers:true,
             scrub:true,
             duration:1,
         }
@@ -99,7 +96,6 @@ mm.add("(max-width: 850px)", () => {
             scroller:"body",
             start:"0% 50%",
             end:"100% 80%",
-            markers:true,
             scrub:true,
         }
     })
